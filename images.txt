@@ -1,4 +1,4 @@
-centos
-oraclelinux
+#centos
 odoo
-nginx
+#nginx
+#oraclelinux
